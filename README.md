@@ -14,6 +14,27 @@ Esemble algorithms:
 
 ## Results
 
+![](/images/random_over.png)
+
+
+![](/images/smote.png)
+
+
+
+![](/images/cluser_centroid.png)
+
+
+
+![](/images/combo.png)
+
+
+
+![](/images/rf.png)
+
+
+
+![](/images/easy.png)
+
 
 
 
