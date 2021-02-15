@@ -59,10 +59,10 @@ Ensemble algorithms:
 
 - High-Risk
   - Precision = 1% 
-  - Recall = 66% 
+  - Recall = 78% 
  
 - Low-Risk
-  - Precision = 78%
+  - Precision = 100%
   - Recall = 54% 
 ![](/images/combo.png)
 
