@@ -8,7 +8,7 @@ Resampling algorithms:
 - Undersample: ClusterCentroids 
 - Combo: SMOTEENN 
 
-Esemble algorithms:
+Ensemble algorithms:
 - BalancedRandomForestClassifier
 - EasyEnsembleClassifier 
 
@@ -94,3 +94,8 @@ Esemble algorithms:
 
 
 ## Summary 
+Balanced Accuracy Score is the average of recall obtained on each class, or essentially how good a binary classifier is. 
+Precision tells us "how many are correctly classified among that class." 
+Recall is the ability of the classifier to find all the positive samples. 
+
+In summary, the best model would be the Easy Ensemble Classifier to predict credit risk because the model's accrucacy was the highest at 93%. It also has a much higher precision rate to predict High-Risk credit at 9% compared to the other models. 
