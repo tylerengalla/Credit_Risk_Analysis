@@ -68,22 +68,29 @@ Esemble algorithms:
 
 
 ### Balanced Random Forest Classifier
-- Balanced Accuracy Score = 66%
+- Balanced Accuracy Score = 79%
 
 - High-Risk
-  - Precision = 1% 
-  - Recall = 66% 
+  - Precision = 3% 
+  - Recall = 70% 
  
 - Low-Risk
-  - Precision = 78%
-  - Recall = 54% 
+  - Precision = 100%
+  - Recall = 87% 
 ![](/images/rf.png)
 
 
+### Easy Ensemble AdaBoost Classifier 
+- Balanced Accuracy Score = 93%
 
+- High-Risk
+  - Precision = 9% 
+  - Recall = 92% 
+ 
+- Low-Risk
+  - Precision = 100%
+  - Recall = 94% 
 ![](/images/easy.png)
-
-
 
 
 ## Summary 
